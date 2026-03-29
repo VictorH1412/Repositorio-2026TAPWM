@@ -1,0 +1,17 @@
+{
+  "name": "Aula de Dart e Flutter",
+
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  
+  // Plugins (extensões) do VS Code no Codespaces
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "Dart-Code.dart-code"
+      ]
+    }
+  }
+}
